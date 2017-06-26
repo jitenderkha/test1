@@ -1,6 +1,7 @@
 import json
 import urll1
 from elasticsearch import Elasticsearch
+import re
 
 
 #In [2]: es_conn = Elasticsearch('localhost:9200')
