@@ -1,5 +1,5 @@
 import json
-import urllib2
+import url
 from elasticsearch import Elasticsearch
 
 
