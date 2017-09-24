@@ -1,9 +1,9 @@
 import json
 import urll1
 import urllib
-
+print 4
 import json
-
+print 3
 print '112'
 
 from elasticsearch import Elasticsearch
