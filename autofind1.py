@@ -7,6 +7,7 @@ print 12
 
 import urllib
 print 4
+print 5
 import json
 print 3
 print '112'
