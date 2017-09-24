@@ -3,7 +3,7 @@ import urll1
 import urllib
 
 import json
-print '12'
+
 print '112'
 
 from elasticsearch import Elasticsearch
