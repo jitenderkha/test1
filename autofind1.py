@@ -1,6 +1,7 @@
 import json
 import urll1
 import urllib
+print '11'
 from elasticsearch import Elasticsearch
 
 import hash
